@@ -25,7 +25,7 @@ This repository is intended for:
 
 ## 📘 How to Use
 
-**Watch each tools and you can download the folder as zip**
+**Watch each tool and you can download the folder as zip**
   
 
 
